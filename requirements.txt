@@ -1,0 +1,11 @@
+pymupdf
+langchain
+langchain-community
+langchain-groq
+chromadb
+sentence-transformers
+rank-bm25
+ragas
+streamlit
+python-dotenv
+jupyter
