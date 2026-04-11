@@ -1,8 +1,25 @@
 chroma_db/
-.env
-__pycache__/
-*.pyc
+
 .ipynb_checkpoints/
 *.egg-info/
 dist/
 .DS_Store
+
+# Ignore virtual environment
+venv/
+.env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS / editor files
+.DS_Store
+.vscode/
+
+# Logs / temp
+*.log
+*.tmp
+
+# Large data / PDFs (optional)
+*.pdf

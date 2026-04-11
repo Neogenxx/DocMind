@@ -1,6 +1,6 @@
-# Production RAG - DOCKNOWS
+# DOCKNOWS
 
-A production-grade Retrieval Augmented Generation (RAG) system built from scratch. Beyond basic demos by implementing hybrid retrieval, cross-encoder reranking, hallucination guards, and Ragas-based evaluation.
+A production-grade Retrieval Augmented Generation (RAG) system built from scratch. By implementing hybrid retrieval, cross-encoder reranking, hallucination guards, and Ragas-based evaluation.
 
 ---
 
