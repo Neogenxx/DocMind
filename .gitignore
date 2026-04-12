@@ -6,7 +6,7 @@ dist/
 .DS_Store
 
 # Ignore virtual environment
-venv/
+venvrag/
 .env/
 
 # Python cache
