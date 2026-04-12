@@ -74,7 +74,6 @@ PDF / Markdown
 | Golden Dataset Size | 20 QA pairs |
 | Evaluation Framework | Ragas |
 
-> Scores will be filled in after running `07_ragas_evaluation.ipynb`
 
 ---
 
