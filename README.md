@@ -129,8 +129,8 @@ production-rag/
 
 **1. Clone the repo**
 ```bash
-git clone https://github.com/yourusername/production-rag.git
-cd production-rag
+git clone https://github.com/Neogenxx/DocMind.git
+cd DocMind
 ```
 
 **2. Install dependencies**
