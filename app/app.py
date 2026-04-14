@@ -1,9 +1,7 @@
 """
 DocMind — Production RAG System
-Streamlit UI — Day 3
 
 Run with:
-    cd docmind
     streamlit run app/app.py
 """
 
