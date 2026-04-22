@@ -18,7 +18,7 @@ PDF / Markdown
       ▼
 ┌─────────────────────┐
 │   Document Ingestion │  PyMuPDF + RecursiveCharacterTextSplitter
-│   500-800 token      │  100 token overlap at boundaries
+│   600 token      │  100 token overlap at boundaries
 │   chunks             │
 └────────┬────────────┘
          │
