@@ -68,9 +68,9 @@ PDF / Markdown
 
 | Metric | Score |
 |---|---|
-| Faithfulness | — |
-| Answer Relevancy | — |
-| Context Precision | — |
+| Faithfulness | 0.8714 |
+| Answer Relevancy | 0.8986 |
+| Context Precision | 1.0000 |
 | Golden Dataset Size | 20 QA pairs |
 | Evaluation Framework | Ragas |
 
@@ -180,22 +180,6 @@ A golden dataset of 20 manually verified question-answer pairs is used to measur
 - **Faithfulness** — is every claim in the answer supported by the retrieved chunks?
 - **Answer Relevancy** — does the answer actually address the question?
 - **Context Precision** — were the retrieved chunks actually relevant?
-
----
-
-## Running the Evaluation
-
-```python
-# Inside 07_ragas_evaluation.ipynb
-from ragas import evaluate
-from ragas.metrics import faithfulness, answer_relevancy, context_precision
-
-results = evaluate(
-    dataset=golden_dataset,
-    metrics=[faithfulness, answer_relevancy, context_precision]
-)
-print(results)
-```
 
 ---
 
