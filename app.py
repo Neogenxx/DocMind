@@ -2,7 +2,7 @@
 DocMind — Production RAG System
 
 Run with:
-    streamlit run app/app.py
+    streamlit run app.py
 """
 
 import streamlit as st
